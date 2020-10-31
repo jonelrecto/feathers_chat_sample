@@ -1,0 +1,4 @@
+{"_id":"8LlRuy13pbXQsIu2"}
+{"email":"email@email.com","password":"$2a$13$0K9MPWIiIUY/wb1inWEJJeQ4UpG.zuaMSy.1lgD6cFD8otshyMLsa","_id":"XLFX89LjZKIJZ2IN"}
+{"email":"test@test.com","password":"","avatar":"https://s.gravatar.com/avatar/b642b4217b34b1e8d3bd915fc65c4452?s=60","_id":"oVy4xoTyVmk1Wcd4"}
+{"$$indexCreated":{"fieldName":"email","unique":true,"sparse":false}}
